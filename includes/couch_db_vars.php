@@ -1,6 +1,6 @@
 <?php
 //****************** This is for test Database *****************//
-	$couchbase['remote']['host'] 		= 	"192.168.11.10:8091";
+	$couchbase['remote']['host'] 		= 	"yourhost:8091";
 	$couchbase['remote']['username'] 	= 	"Administrator";
 	$couchbase['remote']['password'] 	= 	"couchbase";	
 	$couchbase['remote']['bucket'] 		= 	"mybucket";
